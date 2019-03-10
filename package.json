@@ -1,0 +1,14 @@
+{
+  "name": "ws-browserify-fs",
+  "version": "4.0.0",
+  "description": "fs for the browser using browserfs",
+  "repository": "websecurify/browserify-fs",
+  "keywords": [
+    "browserify",
+    "fs"
+  ],
+  "main": "lib/index.js",
+  "dependencies": {
+    "browserfs": "^1.4.3"
+  }
+}
